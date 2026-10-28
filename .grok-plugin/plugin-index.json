@@ -643,7 +643,7 @@
       }
     },
     "moose-tracker": {
-      "sha": "13d96afd50063f4f8fd1e6488068bd4ee65a1cdc",
+      "sha": "0b6192e89baa136bb1160085e1c479857814bef4",
       "version": "1.1.0",
       "components": {
         "mcpServers": [
@@ -655,7 +655,7 @@
         "skills": [
           {
             "name": "moose-tracker",
-            "description": "Make game sound effects and retro synth, chiptune, jazz-combo or drum-and-bass songs with Moose Tracker's built-in synt…"
+            "description": "Make game and app sound effects (UI clicks, taps, toggles, notifications, haptic-friendly sounds) and retro synth, chip…"
           }
         ]
       }
