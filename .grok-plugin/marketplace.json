@@ -473,6 +473,19 @@
         "email": "support@videogen.io",
         "url": "https://github.com/video-gen"
       }
+    },
+    {
+      "name": "moose-tracker",
+      "description": "Moose Tracker is a retro synthesizer and music tracker (not an AI music model). Your assistant writes sound effects and songs as notes; Moose Tracker's own synth and drum kits play them. Get WAV sound effects, Ogg or WAV songs with loop points, or a browser link. No sign-in; we do not keep your song text.",
+      "category": "creative",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/moose-tracker/moose-tracker-plugin.git",
+        "sha": "13d96afd50063f4f8fd1e6488068bd4ee65a1cdc"
+      },
+      "homepage": "https://moosetracker.app/about.html",
+      "keywords": ["moose tracker", "moosetracker", "moose tracker synth", "moose tracker music tracker", "moose tracker chiptune"],
+      "domains": ["moosetracker.app", "mcp.moosetracker.app"]
     }
   ]
 }
